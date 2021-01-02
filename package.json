@@ -1,0 +1,16 @@
+{
+  "name": "exmo-sdk",
+  "version": "0.0.1",
+  "author": "pr!de",
+  "license": "MIT",
+  "homepage": "https://github.com/VadimPride/exmo-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimPride/exmo-sdk"
+  },
+  "dependencies": {
+    "events": "^3.2.0",
+    "exmo-rest": "^1.1.1",
+    "exmo-ws": "0.0.1"
+  }
+}
