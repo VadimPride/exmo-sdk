@@ -1,5 +1,1 @@
-#exmo-sdk
-
-```javascript
-const exmoSDK = require('exmo-sdk');
-```
+#In developing (Not recommended)
